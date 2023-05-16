@@ -1,8 +1,0 @@
-form{
-    display: flex;
-    flex-direction: column;
-    margin: 100px 200px;
-    border: 1px solid;
-    padding: 40px;
-    gap: 10px;
-}

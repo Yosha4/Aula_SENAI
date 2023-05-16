@@ -1,0 +1,41 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(https://marketplace.canva.com/EAE-fwECN9E/1/0/1600w/canva-neon-purple-futuristic-colorful-game-time-desktop-wallpaper-kZN_z50jtn4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 255, 64);
+}
+
+main{
+    margin: auto;
+     width:min-content;
+    padding: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+display: flex;
+flex-direction: column;
+}
+
+button{
+margin-top: 10px;
+background-color: rgb(94, 94, 94);
+}
+input{
+    padding: 5.21px;
+    background-color: #000000;
+}
+
+form {
+    background-color: #333;
+    padding: 40px;
+    margin-left: 1000px;
+    height: 300px;
+}
